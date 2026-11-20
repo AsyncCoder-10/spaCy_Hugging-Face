@@ -1,0 +1,7 @@
+spacy
+transformers
+huggingface_hub
+torch
+
+fastapi
+uvicorn
